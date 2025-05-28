@@ -14,7 +14,7 @@ Built from scratch using CNN (Convolutional Neural Networks) with manual control
 - Google Colab (for training)
 
 ---
-##Detail
+## Detail
 This code still has some parts that will damage the overfitting image file. If you want to study, please see the good part, the bad part. If anyone has knowledge, please teach me, it would be great.
 ---
 ## 🛠️ How to Run 
